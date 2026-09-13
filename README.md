@@ -108,7 +108,8 @@ Example output:
 Sample Patient Prediction:
 Heart Disease Detected
 
-## how to run
+```markdown
+## How to Run
 
 ### 1. Clone the repository
 
