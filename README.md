@@ -107,8 +107,7 @@ Example output:
 ```text
 Sample Patient Prediction:
 Heart Disease Detected
-
-```markdown
+```
 ## How to Run
 
 ### 1. Clone the repository
